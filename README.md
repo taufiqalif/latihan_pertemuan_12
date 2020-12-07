@@ -19,3 +19,20 @@ gambar!
 
 ![01.png](/gambar/01.png)
 
+
+## Update
+Anda dapat "memperbarui" string yang ada dengan menetapkan (kembali) variabel ke string lain. 
+Nilai baru dapat dikaitkan dengan nilai sebelumnya atau ke string yang sama sekali berbeda. 
+Sebagai contoh:
+
+	var1 = 'hello world'
+
+	print("update string : - ", var1[:6] + 'python')
+
+dan akan menghasilkan output sebagai berikut:
+
+	update string : -  hello python
+
+gambar!
+
+![02.png](/gambar/02.png)
