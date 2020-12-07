@@ -12,5 +12,10 @@ Menetapkan **string** ke **variabel** dilakukan dengan nama variabel diikuti den
 
 dan akan menghasilkan output sebagai beriku:
 
+	var1[0]:  h
+	var2[1:5]:  ytho
+
+gambar!
+
 ![01.png](/gambar/01.png)
 
